@@ -1,0 +1,31 @@
+1. HTML
+
+2. CSS
+  - Sass
+  - Less
+  - Bootstrap
+  - Materialize
+  - Tailwind
+
+3. Javascript
+  - ExpressJS
+  - NodeJS
+  - GatsbyJS
+  - React Native
+  - Axios
+  - !Vue
+    ! - NuxtJS
+  - |React
+    | - Redux
+    | - MaterialUI
+    | - ChakraUI
+    | - Ant Design
+    | - NextJS
+
+4. MySQL
+5. MongoDB
+6. Webpack
+7. TypeScript
+
+
+ 
