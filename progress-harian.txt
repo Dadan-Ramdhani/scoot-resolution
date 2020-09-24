@@ -2,3 +2,6 @@
 Tanggal : 23 September 2020
 
 2. Mempelajari Hal-Hal Yang Dipelajari Kemarin
+
+3. Mempelajar Dasar Daru Vuejs seperti Binding Data, Vue Instances, Dan Events. 
+Tanggal : 24 September 2020
