@@ -3,5 +3,5 @@ Tanggal : 23 September 2020
 
 2. Mempelajari Hal-Hal Yang Dipelajari Kemarin
 
-3. Mempelajar Dasar Daru Vuejs seperti Binding Data, Vue Instances, Dan Events. 
+3. Mempelajar Dasar Daru Vuejs seperti Binding Data, Vue Instances, Event, Event Modifier(s), Keyboard Event, Dan Two-Way Binding
 Tanggal : 24 September 2020
