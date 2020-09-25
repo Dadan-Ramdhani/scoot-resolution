@@ -5,3 +5,6 @@ Tanggal : 23 September 2020
 
 3. Mempelajar Dasar Daru Vuejs seperti Binding Data, Vue Instances, Event, Event Modifier(s), Keyboard Event, Dan Two-Way Binding
 Tanggal : 24 September 2020
+
+4. Membuat Projek Odading Mang Oleh dan Pembelajaran Mengenai Vue Dihentikan Sementara
+Tanggal : 25 september 2020
