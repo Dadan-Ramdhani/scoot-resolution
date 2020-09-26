@@ -8,3 +8,6 @@ Tanggal : 24 September 2020
 
 4. Membuat Projek Odading Mang Oleh dan Pembelajaran Mengenai Vue Dihentikan Sementara
 Tanggal : 25 september 2020
+
+5. Membuat Wireframe Awal Dari Projek Odading Mang Oleh
+Tanggal : 26 September 2020
