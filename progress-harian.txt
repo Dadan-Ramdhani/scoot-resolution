@@ -11,3 +11,6 @@ Tanggal : 25 september 2020
 
 5. Membuat Wireframe Awal Dari Projek Odading Mang Oleh
 Tanggal : 26 September 2020
+
+6. Membuat SideNav Awal Dari Projeknya
+Tanggal : 27 September 2020
