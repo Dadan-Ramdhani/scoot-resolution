@@ -14,3 +14,6 @@ Tanggal : 26 September 2020
 
 6. Membuat SideNav Awal Dari Projeknya
 Tanggal : 27 September 2020
+
+7. Mengedit mock-up nya lalu mengimplementasikannya kembali, menambah gambar, serta melatih float property
+Tanggal : 28-29 September 2020
