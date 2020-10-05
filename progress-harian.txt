@@ -20,3 +20,9 @@ Tanggal : 28-29 September 2020
 
 8. Menambahkan Menu Minuman dan melakukan merging antara Navigasi, header, dan Menu Makanan
 Tanggal : 30 September 2020
+
+9. Menyelesaikan Project Odading Mamg Oleh 
+Tanggal : 31 September - 2 Oktober 2020
+
+10. Membuat Projek Book Design App ( Slicing )
+Tanggal : 5 Oktober 2020
