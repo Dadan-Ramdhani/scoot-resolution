@@ -26,3 +26,6 @@ Tanggal : 31 September - 2 Oktober 2020
 
 10. Membuat Projek Book Design App ( Slicing )
 Tanggal : 5 Oktober 2020
+
+11. Mempelajari Asynchronous JavaScript 2020
+Tanggal : 14 Oktober 2020
